@@ -1,5 +1,5 @@
 # TempSwitch 
-### Celcius To Fahreinheit Converter
+### Celcius To Fahrenheit Converter
 
 - a python program that converts degrees celcius to degrees fahreinheit
 
