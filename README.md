@@ -29,3 +29,4 @@ Ethan LLM Works is a self-directed, independent passion of mine I pursue in free
 2. "Modify the background to reflect a clean environmental theme."
 3. "Ensure all text follows a consistent font."
 4. "Modify text spacing to ensure titles and subtitles are displayed in the middle."
+5. "Show results as an adjusting therometer ranging from blue to red."
